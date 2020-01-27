@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24965" started-at="2020-01-24T14:59:03 IST" finished-at="2020-01-24T14:59:28 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24965" started-at="2020-01-24T14:59:03 IST" finished-at="2020-01-24T14:59:28 IST">
+      <class name="tests.TestClass">
+        <test-method status="PASS" signature="launchGoogle()[pri:0, instance:tests.TestClass@131276c2]" name="launchGoogle" duration-ms="7212" started-at="2020-01-24T14:59:03 IST" finished-at="2020-01-24T14:59:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle -->
+        <test-method status="PASS" signature="launchOutLook()[pri:0, instance:tests.TestClass@131276c2]" name="launchOutLook" duration-ms="7718" started-at="2020-01-24T14:59:10 IST" finished-at="2020-01-24T14:59:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchOutLook -->
+        <test-method status="PASS" signature="launchfaceBook()[pri:0, instance:tests.TestClass@131276c2]" name="launchfaceBook" duration-ms="9973" started-at="2020-01-24T14:59:18 IST" finished-at="2020-01-24T14:59:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchfaceBook -->
+      </class> <!-- tests.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
